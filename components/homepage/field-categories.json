@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_homepage_field_categories",
+  "info": {
+    "name": "fieldCategories",
+    "icon": "allergies",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "content2": {
+      "type": "component",
+      "repeatable": true,
+      "component": "homepage.content"
+    }
+  }
+}
